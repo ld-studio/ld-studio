@@ -1,1 +1,1 @@
-<a href="https://giovannacampoli.myportfolio.com/"><img src="https://github.com/user-attachments/assets/dda64270-5aad-4d87-9007-cab5233a7fd2" alt="Giovanna Campoli Portfolio" style="width:1000px;height:700px;"></a>
+<a href="https://giovannacampoli.myportfolio.com/"><img src="https://github.com/user-attachments/assets/dda64270-5aad-4d87-9007-cab5233a7fd2" alt="Giovanna Campoli Portfolio" style="width:700px;height:400px;"></a>
